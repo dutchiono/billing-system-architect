@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Documentation consolidated (2026-11-14):** The canonical cross-project copy is now at [architects-and-agents/consolidated/billing-system-architect.md](https://github.com/dutchiono/architects-and-agents/blob/main/consolidated/billing-system-architect.md). This repository is retained for history and any additional assets until full dependency review. New architectural edits should go to the consolidated library; no claims of a running platform follow from this documentation.
+>
 # Subscription Billing and Revenue Management
 
 ## Overview
